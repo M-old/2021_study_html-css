@@ -1,3 +1,3 @@
 # 2021_study_html-css
 
-Css got so much better!
+HTML & CSS are so much fun!
